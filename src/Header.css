@@ -7,13 +7,13 @@ header{
 header h1{
     margin:0;
     font-size: 4rem;
-    color: rgb(33,37,41);
+    color: #fff;
 }
 
 header p{
     font-weight: 700;
     font-style: italic;
-    color: rgb(33,37,41);
+    color: #fff;
     font-size: 1.75rem;
     margin-bottom: 30px; 
 }
@@ -21,8 +21,8 @@ header p{
 header a{
     box-shadow: 0 3px 3px 0 rgba(0,0,0,-1);
     font-weight: 700;
-    background-color: #1d809f;
-    border-color: #1d809f;
+    background-color: #FE7F2D;
+    border-color: #FE7F2D;
     color: #fff;
     padding: 1.25rem 2.5rem;
     text-decoration: none;

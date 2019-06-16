@@ -11,7 +11,7 @@ class App extends Component {
         return (
             <div>
                 <Navigation logoTitle="Portifolio Model" />
-                <Header title="Stylish Portifolio"/>
+                <Header name="Renato Barbosa Candido" job="Full Stack Developer"/>
             </div>
 
         )

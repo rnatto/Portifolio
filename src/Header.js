@@ -9,10 +9,10 @@ const myStyles = {
 class Header extends Component {
     render() {
         return (
-            <header style= {myStyles}>
-                <h1>{this.props.title}</h1>
-                 <p>A Free Bootstrap Theme by Start Bootstrap</p> 
-                 <a href="#Button">Find Out More</a> 
+            <header style={myStyles}>
+                <h1>{this.props.name}</h1>
+                <p>{this.props.job}</p>
+                <a href="#Button">Find Out More</a>
             </header>
         );
     }
