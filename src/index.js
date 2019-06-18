@@ -12,6 +12,7 @@ class App extends Component {
             <div>
                 <Navigation logoTitle="Portifolio Model" />
                 <Header name="Renato Barbosa Candido" job="Full Stack Developer"/>
+                <Services />
             </div>
 
         )
